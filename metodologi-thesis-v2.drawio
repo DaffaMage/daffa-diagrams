@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T05:03:25.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Au1uTHIyYe9oI8Ueh-31" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-12-07T05:17:38.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="1uqomd5xqtpesYpDjZ4Q" version="20.6.0" type="github" pages="5">
   <diagram id="krtiONgvCwZE9kZQAfwz" name="metodologi">
     <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,7 +192,7 @@
         <mxCell id="BpluVZ2RL_XilJl6ynUt-4" value="Pelatihan Model Identifikasi Huruf" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BpluVZ2RL_XilJl6ynUt-6" value="Analisis Penelitian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BpluVZ2RL_XilJl6ynUt-6" value="Analisis Hasil Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
