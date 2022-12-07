@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T04:20:51.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="U7KoMDbyYV7jNx7Bmhnl" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T04:25:26.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="JD2Yy92Q-_QqZP5OVw4j" version="20.6.0" type="github" pages="2">
   <diagram id="krtiONgvCwZE9kZQAfwz" name="metodologi-a">
     <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,6 +78,35 @@
         </mxCell>
         <mxCell id="3Ln-GhuqyoS-aDaGr7-3-24" value="Analisis Hasil Model" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2ku8PVr4WOm1CHyFq7MV" name="metodologi-data-proc">
+    <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PuEos_XJJQOIyXwsl5NT-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="500" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PuEos_XJJQOIyXwsl5NT-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PuEos_XJJQOIyXwsl5NT-3" target="PuEos_XJJQOIyXwsl5NT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PuEos_XJJQOIyXwsl5NT-3" value="Dataset Video/Rekaman" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PuEos_XJJQOIyXwsl5NT-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PuEos_XJJQOIyXwsl5NT-5" target="PuEos_XJJQOIyXwsl5NT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PuEos_XJJQOIyXwsl5NT-5" value="Citra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PuEos_XJJQOIyXwsl5NT-6" value="Face Mesh, Pose, dan Penyesuaian Ukuran Citra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PuEos_XJJQOIyXwsl5NT-7" value="Data Preprocessing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="160" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
